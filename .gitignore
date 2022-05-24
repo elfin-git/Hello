@@ -1,3 +1,4 @@
 #Ignore file named 'test.md'
 test.md
+/node_modules
 
